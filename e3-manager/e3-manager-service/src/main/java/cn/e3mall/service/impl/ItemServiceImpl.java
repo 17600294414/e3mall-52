@@ -8,7 +8,7 @@ import cn.e3mall.pojo.TbItem;
 import cn.e3mall.service.ItemService;
 
 @Service
-public class ItenServiceImpl implements ItemService {
+public class ItemServiceImpl implements ItemService {
 
 	@Autowired
 	private TbItemMapper itemMapper;
